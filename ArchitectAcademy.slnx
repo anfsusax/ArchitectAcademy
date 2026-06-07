@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src/ArchitectAcademy.Application/ArchitectAcademy.Application.csproj" />
+  <Project Path="src/ArchitectAcademy.Domain/ArchitectAcademy.Domain.csproj" />
+  <Project Path="src/ArchitectAcademy.Infrastructure/ArchitectAcademy.Infrastructure.csproj" />
+  <Project Path="src/ArchitectAcademy.Shared/ArchitectAcademy.Shared.csproj" />
+  <Project Path="src/ArchitectAcademy.Web/ArchitectAcademy.Web.csproj" />
+  <Project Path="tests/ArchitectAcademy.Integration.Tests/ArchitectAcademy.Integration.Tests.csproj" />
+  <Project Path="tests/ArchitectAcademy.Tests/ArchitectAcademy.Tests.csproj" />
+</Solution>
